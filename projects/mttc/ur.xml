@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UpdateServer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" MainVersion="2.0.0.0" Allow="true" Readme="UpdateInfo_Reader.txt" LastVersion="1.0.0.0">
+  <ServerFile FileName="Update_Reader.exe" Version="2.0.0.0" DownloadPath="temp" Handle="3" SetupParam="/sp- /silent /norestart" RunRelativePath="Reader.exe" RunParam=""/>
+</UpdateServer>
